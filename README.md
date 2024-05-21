@@ -39,7 +39,7 @@ Tela dos Detalhes
 
 Tela de Edição
 
-![image](https://github.com/jaqueboeno96/projeto-registro-de-ocorrencias/assets/106850204/88751d85-a588-44d4-b05a-d79f2be85441)
+![Captura de tela 2024-05-21 131445](https://github.com/jaqueboeno96/projeto-registro-de-ocorrencias/assets/106850204/948d9bed-8014-4642-a992-ec09f5ef8bf1)
 
 
 
