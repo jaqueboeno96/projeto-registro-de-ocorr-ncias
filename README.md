@@ -52,7 +52,9 @@ POWER AUTOMATE:
 
 E-mail
 
-![image](https://github.com/jaqueboeno96/projeto-registro-de-ocorrencias/assets/106850204/2fb76e42-10f5-485c-a4f6-bf014d325203)
+
+![Captura de tela 2024-05-21 132429](https://github.com/jaqueboeno96/projeto-registro-de-ocorrencias/assets/106850204/04ae3f3c-6e01-4b64-81f2-a658033d428c)
+
 
 
 
